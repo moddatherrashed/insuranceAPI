@@ -1,2 +1,2 @@
 # insuranceAPI
-this api made using Slim framework 
+this api made by using Slim framework 
