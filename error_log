@@ -1,0 +1,25 @@
+[24-Nov-2017 16:49:11 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:49:11 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:49:11 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:50:18 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:50:18 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:50:18 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:50:22 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:50:22 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:50:22 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:50:54 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:50:54 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:50:54 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:51:09 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:51:09 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:51:09 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:51:11 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:51:11 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:51:11 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/moddatherrashed/public_html/moddatherTask/index.php on line 10
+[24-Nov-2017 16:53:13 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInit3649ae7ee55b8a60880b1a00ae566eab' not found in /home/moddatherrashed/public_html/moddatherTask/vendor/autoload.php on line 7
+[24-Nov-2017 16:54:32 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInit3649ae7ee55b8a60880b1a00ae566eab' not found in /home/moddatherrashed/public_html/moddatherTask/vendor/autoload.php on line 7
+[24-Nov-2017 16:54:35 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInit3649ae7ee55b8a60880b1a00ae566eab' not found in /home/moddatherrashed/public_html/moddatherTask/vendor/autoload.php on line 7
+[24-Nov-2017 16:57:38 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInit3649ae7ee55b8a60880b1a00ae566eab' not found in /home/moddatherrashed/public_html/moddatherTask/vendor/autoload.php on line 7
+[24-Nov-2017 16:59:23 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInit3649ae7ee55b8a60880b1a00ae566eab' not found in /home/moddatherrashed/public_html/moddatherTask/vendor/autoload.php on line 7
+[24-Nov-2017 16:59:46 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInit3649ae7ee55b8a60880b1a00ae566eab' not found in /home/moddatherrashed/public_html/moddatherTask/vendor/autoload.php on line 7
+[24-Nov-2017 17:00:02 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInit3649ae7ee55b8a60880b1a00ae566eab' not found in /home/moddatherrashed/public_html/moddatherTask/vendor/autoload.php on line 7
